@@ -15,10 +15,7 @@ This project is a demonstration of using React's Context API to manage state acr
 
 The project is deployed using Netlify and can be accessed [here](https://usecontext-task-shopping.netlify.app/).
 
-## Screenshots
 
-![Screenshot](./path-to-your-screenshot.png)
-Include a screenshot of your application here to give users a visual representation.
 
 ## Installation
 
@@ -48,14 +45,7 @@ To run this project locally, follow these steps:
 - React Context API
 - HTML/CSS
 
-## Contributing
 
-Contributions are welcome. If you'd like to contribute:
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/your-feature`).
-3. Commit your changes (`git commit -am 'Add some feature'`).
-4. Push to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
 
 ## License
 
